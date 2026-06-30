@@ -29,4 +29,12 @@ A web-based classroom reservation system developed as an academic project.
 
 ## Screenshots
 
-*(Screenshots will be added soon.)*
+### Login Page
+![Login](images/login.png)
+### Dashboard
+
+![Dashboard](images/dashboard.png)
+
+### Reservation Page
+
+![Reservation](images/reservation.png)
